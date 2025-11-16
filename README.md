@@ -13,7 +13,7 @@ This minimal template only implements:
 - The second page after the chapter cover page shows the abstract.
 
 > [!note]
-> This is the minimal template. Some features still need to be implemented, such as reference and bibtex. 
+> This is the minimal template. Some features still need to be implemented, such as reference and bibtex.
 
 ## Motivation
 
@@ -27,8 +27,7 @@ Typst vs. LaTeX: Since both systems were new to me, an evaluation was conducted.
 | ------------------------------- | ------------------------------- |
 | ![chapter_1](./examples/9.png)  | ![chapter_1](./examples/10.png) |
 | ![chapter_1](./examples/11.png) | ![chapter_1](./examples/12.png) |
-
-![chapter_1](./examples/13.png)
+| ![chapter_1](./examples/13.png) | &#160;                          |
 
 ## Installation
 
